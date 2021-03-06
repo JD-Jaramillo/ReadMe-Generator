@@ -17,13 +17,13 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'apache') {
-    return '## License\ [Apache License](https://opensource.org/licenses/Apache-2.0)';
+    return '## License\ [Apache License](https://opensource.org/licenses/Apache-2.0)\ ';
   } else if (license === 'mit') {
-    return '## License\ [Mit License](https://opensource.org/licenses/MIT)';
+    return '## License\ [Mit License](https://opensource.org/licenses/MIT)\ ';
   } else if (license === 'mozilla') {
-    return '## License\ [Mozilla License](https://opensource.org/licenses/MPL-2.0)';
+    return '## License\ [Mozilla License](https://opensource.org/licenses/MPL-2.0)\ ';
   } else if (license === 'perl') {
-    return '## License\ [Pearl License](https://opensource.org/licenses/MPL-2.0)';
+    return '## License\ [Pearl License](https://opensource.org/licenses/MPL-2.0)\ ';
   } else
     return '';
 }

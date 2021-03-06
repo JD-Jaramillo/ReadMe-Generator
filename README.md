@@ -13,7 +13,7 @@ Created the prompts for the user to respond to and then create the ReadMe with, 
 
 Link to deployed ReadMe Generator: [Deployed site](https://jd-jaramillo.github.io/ReadMe-Generator/)
 
-![Video on How to use using command line]()
+![Watch the video](./video/How-to-generate-readme.gif)
 
 ![JohnDJaramillo-ReadMe Generator](./images/SampleReadMe1.png)
 ![JohnDJaramillo-ReadMe Generator](./images/SampleReadMe2.png)
@@ -42,7 +42,7 @@ There is no need to install anything, to view the ReadMe Generator simply follow
 
 See deployed site here: [Deployed site](https://jd-jaramillo.github.io/ReadMe-Generator/) 
 
-See repository here: [GitHub Repo](https://github.com/JD-Jaramillo/ReadMe-Generator);
+See repository here: [GitHub Repo](https://github.com/JD-Jaramillo/ReadMe-Generator)
 
 ## Contributing
 
