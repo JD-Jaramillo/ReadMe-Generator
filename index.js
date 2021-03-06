@@ -31,7 +31,7 @@ const questions = [
         message: 'What License do you want to use?',
         name: 'license',
         choices: [
-            'licenseA', 'licenseB', 'licenseC', 'licenseD',
+            'apache', 'mit', 'mozilla', 'perl', 'none'
         ],
     },
     {
@@ -59,8 +59,11 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    console.log(fileName);
-    generateReadMe(data);
+    var generate = generateReadMe(data);
+    fs.writeFile(fileName, generate, (err) => {
+        err ? console.log(err) : console.log('Your ReadMe has been generated!');
+    })
+
 }
 
 // TODO: Create a function to initialize app
@@ -68,11 +71,9 @@ function init() {
     inquirer
         .prompt(questions)
         .then(answers => {
-            generateReadMe(answers);
-            var FileName = answers.project;
-            writeToFile(FileName, answers);
+            var fileName = 'GeneratedReadMe.md';
+            writeToFile(fileName, answers);
         })
 }
-
 // Function call to initialize app
 init();

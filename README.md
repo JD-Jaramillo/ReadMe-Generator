@@ -43,7 +43,7 @@ There is no need to install anything, to view the ReadMe Generator simply follow
 
 See deployed site here: [Deployed site]() 
 
-See repository here: [GitHub Repo]();
+See repository here: [GitHub Repo](https://github.com/JD-Jaramillo/ReadMe-Generator);
 
 ## Contributing
 
