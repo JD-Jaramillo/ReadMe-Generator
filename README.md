@@ -3,21 +3,20 @@ Creates professional ReadMe files using the command line
 
 ## Table of Contents
 
-* [HTML](#HTML)
-* [CSS](#CSS)
+* [JS](#JS)
 * [Requirements](#Requirements)
 * [Installation](#Installation)
 * [Contributing](#Contributing)
 
-## HTML 
+## JS
+Created the prompts for the user to respond to and then create the ReadMe with, then created a function to initialize the app and grab the answers from the prompts to write the readme with. Another JS page created gets the licese information selected and also returns the Markdown with template literals. 
 
+Link to deployed ReadMe Generator: [Deployed site](https://jd-jaramillo.github.io/ReadMe-Generator/)
 
-## CSS 
+![Video on How to use using command line]()
 
-
-Link to deployed ReadMe Generator: [Deployed site]()
-
-![JohnDJaramillo-ReadMe Generator](/images/newscreenshot1.png)
+![JohnDJaramillo-ReadMe Generator](./images/SampleReadMe1.png)
+![JohnDJaramillo-ReadMe Generator](./images/SampleReadMe2.png)
 
 ## Requirements
 
@@ -41,7 +40,7 @@ THEN I am taken to the corresponding section of the README
 
 There is no need to install anything, to view the ReadMe Generator simply follow the link below. 
 
-See deployed site here: [Deployed site]() 
+See deployed site here: [Deployed site](https://jd-jaramillo.github.io/ReadMe-Generator/) 
 
 See repository here: [GitHub Repo](https://github.com/JD-Jaramillo/ReadMe-Generator);
 

@@ -1,11 +1,11 @@
 
 
-# i
+# Sample ReadMe
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Description
-i
+This is a sample ReadMe generated through the command line 
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -21,21 +21,21 @@ i
 - [Questions](#questions)
 
 ## Installation
-i
+You create this ReadMe by following the prompts in the command line, the rest is done for you.
 
 ## Usage
-nop
+If you want to contribute simply reach me out to me on GitHub or fork my project. 
 
 ## License [Mozilla License](https://opensource.org/licenses/MPL-2.0)
 
 ## Contribution
-nop
+If you want to contribute simply reach me out to me on GitHub or fork my project. 
 
 ## Tests
-test
+In the command line
 
 ## Questions 
-GitHub UserName: [jjjjjj](www.github.com/jjjjjj)
+GitHub UserName: [JD-Jaramillo](www.github.com/JD-Jaramillo)
 
 If you want to contribute to my project, feel free to reach out to me.
- Email: jjjjjj
+ Email: Jaramillo784@gmail.com
