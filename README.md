@@ -15,6 +15,8 @@ Link to deployed ReadMe Generator: [Deployed site](https://jd-jaramillo.github.i
 
 ![Watch the video](./video/How-to-generate-readme.gif)
 
+Link to Full walkthrough video with narration: https://drive.google.com/file/d/1EI2uo9gIAtS-ygcfF_1j8nUA15nICRJP/view
+
 ![JohnDJaramillo-ReadMe Generator](./images/SampleReadMe1.png)
 ![JohnDJaramillo-ReadMe Generator](./images/SampleReadMe2.png)
 
